@@ -1,5 +1,8 @@
 # Byte-compiled / optimized / DLL files
 ../volatility-master/
+../capstone/
+../AndBug/
+../androguard/
 
 __pycache__/
 *.py[cod]

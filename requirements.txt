@@ -1,0 +1,10 @@
+andbug==0.1
+androguard==3.0
+capstone==3.0.4
+Cython==0.24
+funcsigs==1.0.2
+mock==2.0.0
+pbr==1.10.0
+six==1.10.0
+volatility==2.5
+wheel==0.24.0
