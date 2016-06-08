@@ -3,6 +3,7 @@
 ../capstone/
 ../AndBug/
 ../androguard/
+../paramiko/
 
 __pycache__/
 *.py[cod]
